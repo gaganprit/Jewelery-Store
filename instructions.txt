@@ -1,0 +1,12 @@
+To use:
+1. You must have PHP, APACHE and MYSQL in your machine.
+2. I have used WAMP server. Remove the index.html file at http://localhost/
+3. Now change SQL directory to bbjewels.sql by importing the file.
+5. Open http://localhost/<folder_name>/index.php to start.
+
+The username for admin is- 'admin'
+The username for admin is- 'admin'
+The user can make a new account and set creadentials(username, password) on their own.
+
+For any queries mail me at
+gaganprit11@gmail.com
